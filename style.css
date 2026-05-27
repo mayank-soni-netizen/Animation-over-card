@@ -51,6 +51,7 @@ body {
     conic-gradient(from var(--rotate), black, rgba(251, 118, 10, 0.92),black) border-box;
     border: 5px solid rgba(255, 255, 255, 0);
     animation: borderAnimate 10s ;
+    /* filter: drop-shadow( 0 0 20px rgba(251, 118, 10, 0.92)); */
     animation-iteration-count: infinite;
 }    
 .box img {
